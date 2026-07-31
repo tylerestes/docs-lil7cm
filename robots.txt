@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-u8cvqe.bobatoto3edf.cfd/sitemap.xml
